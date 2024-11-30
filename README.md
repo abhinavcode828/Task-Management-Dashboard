@@ -67,7 +67,7 @@ Step-by-Step Instructions:
 
 5. Step 5: Run Tests
    To ensure everything is working correctly, you can run the tests by executing:
-   ##npm test
+   ## npm test
 
 ### Project Demo
 https://www.loom.com/share/ab26d857c27e4ba6a54a8288e6049210?sid=3df488e0-1169-46a2-97e7-2ec719d891d3
