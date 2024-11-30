@@ -51,11 +51,11 @@ Step-by-Step Instructions:
    Step 1: Clone the Repository
    Open your terminal (or command prompt).
    Run the following command to clone the repository from GitHub:
-   git clone https://github.com/bhawneetkaur13/github_repos_website.git
+   git clone https://github.com/abhinavcode828/Task-Management-Dashboard.git
 
 2. Step 2: Navigate to the Project Directory
    After the repository is cloned, navigate to the project folder by using the cd command:
-   cd github_repos_website
+   cd Task-Management-Dashboard
 
 3. Step 3: Install Dependencies
    Run the following command to install all the required dependencies:
