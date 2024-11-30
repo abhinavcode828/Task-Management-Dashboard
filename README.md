@@ -51,20 +51,23 @@ Step-by-Step Instructions:
    Step 1: Clone the Repository
    Open your terminal (or command prompt).
    Run the following command to clone the repository from GitHub:
-   git clone https://github.com/abhinavcode828/Task-Management-Dashboard.git
+   ##git clone https://github.com/abhinavcode828/Task-Management-Dashboard.git
 
 2. Step 2: Navigate to the Project Directory
    After the repository is cloned, navigate to the project folder by using the cd command:
-   cd Task-Management-Dashboard
+   ##cd Task-Management-Dashboard
 
 3. Step 3: Install Dependencies
    Run the following command to install all the required dependencies:
-   npm install
+   ##npm install
 
 4. Step 4: Run the App
    Run the following command to start the development server:
-   npm start
+   ##npm start
 
 5. Step 5: Run Tests
    To ensure everything is working correctly, you can run the tests by executing:
-   npm test
+   ##npm test
+
+### Project Demo
+https://www.loom.com/share/ab26d857c27e4ba6a54a8288e6049210?sid=3df488e0-1169-46a2-97e7-2ec719d891d3
